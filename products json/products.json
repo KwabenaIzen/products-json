@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Buffalo Wings",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/Buffalo%20wings.webp",
+    "description": "Crispy, juicy, and packed with bold flavor—our Buffalo Wings are the perfect blend of heat and tang! Coated in a rich, spicy buffalo sauce and cooked to perfection, these wings deliver a satisfying crunch with every bite.\nServed hot and fresh, they come with a side of cool ranch or blue cheese dip to balance the spice. Whether you're enjoying them as a snack, appetizer, or main dish, our Buffalo Wings are guaranteed to hit the spot!",
+    "category": "local"
+  },
+  {
+    "name": "Chicken Fried Steak",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/Chicken%20steak.webp",
+    "description": "Crispy on the outside, tender on the inside—our Chicken Fried Steak is the ultimate comfort food! Made from a perfectly seasoned, hand-breaded steak, it’s fried to a golden, crispy perfection and smothered in rich, creamy country-style gravy.\n    Served with a side of fluffy mashed potatoes, buttery biscuits, or fresh vegetables, this Southern classic delivers a hearty and satisfying meal in every bite.",
+    "category": "local"
+  },
+  {
+    "name": "Clam Chowder",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/ClamChowder.webp",
+    "description": "Rich, creamy, and packed with flavor, our Clam Chowder is a comforting bowl of goodness. Made with tender clams, hearty potatoes, crispy bacon, and a smooth, velvety broth, this classic dish delivers a perfect balance of seafood richness and savory depth.\nServed piping hot and paired with crusty bread or oyster crackers, it’s the perfect choice for a cozy meal on any day.",
+    "category": "local"
+  },
+  {
+    "name": "Gumbo",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/Gumbo.webp",
+    "description": "A true Southern classic, our Gumbo is a bold and flavorful dish that brings the taste of Louisiana straight to your plate! Slow-cooked to perfection, this hearty stew is made with a rich, savory broth, succulent shrimp, tender chicken, and smoky sausage, all simmered with the perfect blend of Cajun spices.\nServed over a bed of fluffy rice, every spoonful is packed with deep, comforting flavors and just the right amount of spice.",
+    "category": "local"
+  },
+  {
+    "name": "Cheese Steak",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/cheese%20steak.webp",
+    "description": "A mouthwatering classic, our Cheesesteak is packed with thinly sliced, tender beef, grilled to perfection and smothered in melted cheese for the ultimate savory bite. Served in a warm, toasted hoagie roll, this sandwich is loaded with flavor and can be customized with sautéed onions, bell peppers, and mushrooms for an extra kick.",
+    "category": "local"
+  },
+  {
+    "name": "Chicken & Waffles",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/local/chicked%20and%20waffles.jpg",
+    "description": "The perfect balance of sweet and savory, our Chicken & Waffles is a match made in comfort food heaven! Crispy, golden-fried buttermilk chicken sits atop a fluffy, buttery waffle, creating the ultimate combination of crunch and softness in every bite.\nDrizzled with rich maple syrup or served with a side of honey butter.",
+    "category": "local"
+  },
+  {
+    "name": "Club Sandwich",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/club%20sandwich.jpg",
+    "description": "Layered to perfection, our Club Sandwich is a delicious stack of crispy bacon, tender roasted turkey or chicken, fresh lettuce, juicy tomatoes, and creamy mayo, all nestled between perfectly toasted bread.\nServed with a side of golden fries or a crisp salad, this classic sandwich is the ultimate combination of crunch, flavor, and satisfaction.",
+    "category": "local"
+  },
+  {
+    "name": "Cornbread",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/cornbread.webp",
+    "description": "Golden, moist, and slightly sweet, our Cornbread is the perfect side to complement any meal! Made with rich butter, fresh cornmeal, and a touch of honey, it’s baked to a soft, fluffy perfection with a lightly crisp edge.\nWhether enjoyed on its own, with a pat of melting butter, a drizzle of honey, or alongside a bowl of chili or barbecue.",
+    "category": "local"
+  },
+  {
+    "name": "Fried Chicken",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/fried%20chicken.webp",
+    "description": "Crispy on the outside, juicy on the inside—our Fried Chicken is a golden, crunchy masterpiece! Made with perfectly seasoned, hand-breaded chicken, each piece is fried to perfection, delivering a flavorful, crispy bite every time.\nServed hot and fresh with your choice of classic sides like mashed potatoes, coleslaw, or biscuits.",
+    "category": "local"
+  },
+  {
+    "name": "Meat Loaf",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/meatloaf.webp",
+    "description": "A classic comfort dish, our Meatloaf is made with seasoned ground beef, fresh herbs, and a blend of savory spices, then baked to perfection and topped with a rich, tangy glaze.\nServed with creamy mashed potatoes, steamed vegetables, or warm dinner rolls, this hearty meal is packed with homemade flavor and nostalgia in every bite.",
+    "category": "local"
+  },
+  {
+    "name": "Tater Tots",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/local/tater%20tots.webp",
+    "description": "Golden, crispy, and bite-sized, our Tater Tots are the perfect crunchy treat! Made from shredded potatoes, lightly seasoned, and fried to perfection, these little bites are crispy on the outside and soft on the inside.",
+    "category": "local"
+  },
+  {
+    "name": "Jollof Rice",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/Jollof%20Rice.webp",
+    "description": "A West African favorite, our Jollof Rice is a rich, flavorful dish made with fragrant long-grain rice simmered in a spicy tomato and pepper sauce, infused with a blend of traditional herbs and seasonings.\nServed with your choice of grilled chicken, fried fish, or tender beef.",
+    "category": "continental"
+  },
+  {
+    "name": "Ampesi with Garden egg stew",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/plantain%20with%20egg.webp",
+    "description": "A wholesome and nutritious Ghanaian classic, our Ampesi with Garden Egg Stew is a hearty meal made with boiled yam, plantain, or cocoyam, served alongside a rich and flavorful garden egg (eggplant) stew.\nThe stew is slow-cooked with fresh tomatoes, onions, peppers, and palm oil, then enriched with tender smoked fish or protein of your choice, creating a deeply satisfying dish with a perfect balance of flavors.",
+    "category": "continental"
+  },
+  {
+    "name": "Banku With Okro stew",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/banku%20with%20okro.webp",
+    "description": "A true Ghanaian delicacy, our Banku with Okro Stew is a flavorful and satisfying dish that brings together corn and cassava dough (Banku), served with a rich and hearty okro stew.\nThe stew is prepared with fresh okra, tomatoes, onions, and palm oil, simmered with tender beef, smoked fish, crabs, and assorted meats, creating a thick, deliciously slimy texture that pairs perfectly with the soft, slightly tangy Banku.",
+    "category": "continental"
+  },
+  {
+    "name": "Ampesi with Palava Sauce",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/ampesi%20with%20palava%20sauce.webp",
+    "description": "A nutritious and flavorful Ghanaian favorite, our Ampesi with Palava Sauce is a wholesome dish made with boiled yam, plantain, cocoyam, or cassava, paired with a rich and savory Palava Sauce.\nThe sauce is prepared with tender kontomire (cocoyam leaves), tomatoes, onions, and palm oil, slow-cooked with smoked fish or your choice of protein, and perfectly seasoned for a delicious, hearty meal.",
+    "category": "continental"
+  },
+  {
+    "name": "Assorted fried rice with Chicken",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/assorted%20fried%20rice%20and%20chicken.webp",
+    "description": "A flavorful and satisfying dish, our Assorted Fried Rice with Chicken is a delicious blend of fragrant rice stir-fried with fresh vegetables, eggs, and a mix of savory proteins such as shrimp, beef, and sausages.\nServed with perfectly grilled or crispy fried chicken, this dish is seasoned with a rich combination of soy sauce, garlic, and aromatic spices, giving it an irresistible taste.",
+    "category": "continental"
+  },
+  {
+    "name": "Banku with Tilapia",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/banku%20with%20tilapia.webp",
+    "description": "A Ghanaian classic, our Banku with Grilled Tilapia is a mouthwatering combination ofcorn and cassava dough (Banku), served with perfectly grilled, well-seasoned tilapia.\nThe tilapia is marinated with a blend of spices, ginger, garlic, and fresh herbs, then grilled to perfection for a smoky, flavorful taste. It’s served with a side of spicy pepper sauce (shito) and fresh chopped vegetables for the perfect balance of heat and freshness.",
+    "category": "continental"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/chicken%20fried%20rice.webp",
+    "description": "A delicious and satisfying meal, our Chicken Fried Rice is made with fragrant, stir-fried rice tossed with fresh vegetables, eggs, and tender, juicy chicken.\nSeasoned with a flavorful blend of soy sauce, garlic, ginger, and aromatic spices, every bite is packed with the perfect balance of taste and texture. Served with a side of spicy pepper sauce or coleslaw, this dish is a favorite for all occasions.",
+    "category": "continental"
+  },
+  {
+    "name": "French Fries",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/french%20fries.webp",
+    "description": "Golden, crispy, and irresistibly delicious, our French Fries are made from premium potatoes, freshly cut and fried to perfection for a crunchy outside and fluffy inside.\nLightly seasoned for the perfect taste, they can be enjoyed on their own or paired with ketchup, mayo, cheese, or any dipping sauce of your choice.",
+    "category": "continental"
+  },
+  {
+    "name": "French Fries with Wings",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/french%20with%20wings.webp",
+    "description": "A perfect combo for crispy and juicy lovers! Our French Fries with Wings features golden, crispy fries paired with succulent, well-seasoned chicken wings, fried or grilled to perfection.\nEnjoy your wings tossed in your favorite flavor—BBQ, spicy hot, garlic parmesan, or honey-glazed—served with a side of ketchup, ranch, or your preferred dipping sauce.",
+    "category": "continental"
+  },
+  {
+    "name": "Fried Plantain with Beans",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/fried%20plantain%20and%20beans.webp",
+    "description": "A classic Ghanaian favorite, our Fried Ripe Plantain with Beans Stew, also known as Red Red, is a delicious and nutritious dish made with soft, sweet ripe plantains fried to golden perfection, served alongside a rich and flavorful beans stew.\nThe beans stew is slow-cooked with black-eyed peas, tomatoes, onions, palm oil, and a blend of spices, often complemented with smoked fish or your choice of protein for extra depth of flavor.",
+    "category": "continental"
+  },
+  {
+    "name": "Steamed Rice",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/steamed%20rice.webp",
+    "description": "Light, fluffy, and perfectly cooked, our Steamed Rice is made from premium-quality grains, gently steamed to bring out its natural aroma and softness.\nA simple yet versatile dish, it pairs perfectly with soups, stews, grilled meats, and vegetable sauces, making it a great addition to any meal.",
+    "category": "continental"
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/vegetabel%20fried%20rice.webp",
+    "description": "A colorful and healthy delight, our Vegetable Fried Rice is made with fragrant, stir-fried rice tossed with a vibrant mix of fresh vegetables, including carrots, bell peppers, green beans, peas, and cabbage.\nSeasoned with a flavorful blend of soy sauce, garlic, ginger, and aromatic spices, this dish is a perfect balance of taste and nutrition.",
+    "category": "continental"
+  },
+  {
+    "name": "Waakye",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/waakye.webp",
+    "description": "A beloved Ghanaian classic, our Waakye is a flavorful and nutritious dish made from a perfect blend of rice and black-eyed beans (or cowpeas), cooked with dried millet leaves to give it its signature color and rich taste.\nServed with a variety of delicious sides, including spaghetti, fried plantain, gari (cassava flakes), boiled eggs, salad, shito (spicy black pepper sauce), and your choice of protein such as fried fish, grilled chicken, beef, or wele (cow skin).",
+    "category": "continental"
+  },
+  {
+    "name": "Yam Chips",
+    "imageUrl": "https://raw.githubusercontent.com/KwabenaIzen/products-images/refs/heads/main/continental/yam%20chips.webp",
+    "description": "Crispy on the outside, soft on the inside—our Yam Chips are made from freshly sliced yams, deep-fried to golden perfection.\nServed hot and lightly seasoned, these delicious chips pair perfectly with spicy pepper sauce (shito), ketchup, or your favorite dip.",
+    "category": "continental"
+  },
+  {
+    "name": "Brownies",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/brownies.jpg",
+    "description": "Rich, fudgy, and irresistibly chocolatey, our Brownies are baked to perfection with high-quality cocoa, butter, and a touch of vanilla for a deep, indulgent flavor.\nEach bite is a perfect balance of a crispy top and a soft, gooey center, making it the ultimate treat for chocolate lovers.",
+    "category": "pastry"
+  },
+  {
+    "name": "Cup Cake",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/cup%20cake.jpg",
+    "description": "Soft, fluffy, and perfectly sweet, our Cupcakes are baked with premium ingredients, creating a moist and delightful treat for any occasion.\nAvailable in a variety of flavors—including vanilla, chocolate, red velvet, and more—each cupcake is topped with rich, creamy frosting and decorative sprinkles for the perfect finishing touch.",
+    "category": "pastry"
+  },
+  {
+    "name": "Filled Doughnuts",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/filled%20donuts.jpg",
+    "description": "Soft, fluffy, and bursting with flavor, our Filled Doughnuts are freshly made and generously stuffed with your favorite delicious fillings!\nChoose from a variety of irresistible options, including rich chocolate, creamy vanilla custard, luscious strawberry jam, or smooth caramel. Each doughnut is lightly dusted with powdered sugar or glazed for an extra touch of sweetness.",
+    "category": "pastry"
+  },
+  {
+    "name": "Glazed Doughnuts",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/glazed%20donuts.jpg",
+    "description": "Soft, fluffy, and melt-in-your-mouth delicious, our Glazed Doughnuts are freshly baked and coated in a sweet, glossy glaze for the perfect balance of flavor and texture.\nWith a light, airy interior and a smooth, shiny glaze that adds just the right touch of sweetness.",
+    "category": "pastry"
+  },
+  {
+    "name": "Layer Cake",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/layer%20cake.jpg",
+    "description": "Indulge in the rich, moist goodness of our Layer Cake, made with soft, fluffy cake layers stacked with smooth, creamy frosting for the perfect bite every time.\nAvailable in a variety of flavors, including classic vanilla, decadent chocolate, red velvet, and fruity options, each cake is beautifully frosted and decorated for a delightful presentation.",
+    "category": "pastry"
+  },
+  {
+    "name": "Meat Pie",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/meat%20pie.jpg",
+    "description": "Golden, flaky, and filled with savory, seasoned meat, our Meat Pie is the perfect snack or meal companion. Made with a buttery, tender crust and stuffed with a flavorful mixture of minced beef or chicken, onions, and aromatic spices, every bite is a delight.",
+    "category": "pastry"
+  },
+  {
+    "name": "Quiche",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/quiche.jpg",
+    "description": "A rich and savory delight, our Quiche is a perfectly baked, buttery pastry crust filled with a creamy, flavorful egg custard. Made with fresh ingredients like cheese, vegetables, meats, and herbs, this dish is both hearty and satisfying.",
+    "category": "pastry"
+  },
+  {
+    "name": "Scone",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/scone.jpg",
+    "description": "ight, buttery, and slightly crumbly, our Scones are freshly baked to perfection, offering a delightful balance of flaky texture and rich flavor.\nAvailable in a variety of flavors, including classic butter, blueberry, cranberry, chocolate chip, and raisin, these scones pair perfectly with tea, coffee, or a dollop of jam and clotted cream.",
+    "category": "pastry"
+  },
+  {
+    "name": "Sponge Cake",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/sponge%20cake.jpg",
+    "description": "Soft, airy, and delightfully light, our Sponge Cake is made with the finest ingredients to create a fluffy, moist texture that melts in your mouth.\nPerfectly balanced in sweetness, this classic cake is available in flavors like vanilla, chocolate, lemon, and more.",
+    "category": "pastry"
+  },
+  {
+    "name": "Tarts",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/tarts.jpg",
+    "description": "Delicate, buttery, and filled with rich, flavorful fillings, our Tarts are the perfect bite-sized indulgence. Each tart features a crispy, golden pastry crust and a smooth, delicious filling, available in varieties like fruit, custard, chocolate ganache, lemon curd, and caramel.",
+    "category": "pastry"
+  },
+  {
+    "name": "Vegan Spring Rolls",
+    "imageUrl": "https://github.com/KwabenaIzen/products-images/raw/main/pastries/vegan%20spring%20roll.jpg",
+    "description": "Crispy on the outside and packed with fresh, flavorful vegetables, our Vegan Spring Rolls are a light and delicious appetizer or snack. Each roll is filled with a tasty mix of shredded carrots, cabbage, bell peppers, glass noodles, and aromatic herbs, all wrapped in a delicate rice paper or crispy wrapper and served with a side of sweet chili or peanut dipping sauce.",
+    "category": "pastry"
+  }
+]
